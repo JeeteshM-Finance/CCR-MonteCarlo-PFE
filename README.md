@@ -1,5 +1,5 @@
-**Monte Carlo CCR Engine
-**
+**Monte Carlo CCR Engine**
+
 **Overview**
 
 This project simulates future interest rate scenarios for an Interest Rate Swap using Monte Carlo Simulation and computes CCR Exposure Metrics like EE and PFE. 
@@ -54,8 +54,8 @@ SIMULATION COMPLETED SUCCESSFULLY
 
 
 
-**Future Improvements
-**
+**Future Improvements**
+
 1. Evolving interest rate model like Hull White
 2. Inclusing Collateral and Netting
 3. Including multiple derivative products
